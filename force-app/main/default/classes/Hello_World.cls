@@ -1,6 +1,6 @@
 public with sharing class Hello_World {
     public Hello_World() {
-System.debug('Hello World jomoto !!!');
-System.debug('Hello World uber !!!');
+System.debug('Hello World jojo !!!');
+System.debug('Hello World swiggy !!!');
     }
 }
